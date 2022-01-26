@@ -1,7 +1,8 @@
 {
   "license": "MIT",
   "scripts": {
-    "test": "ts-node src/index.ts"
+    "test": "ts-node src/index.ts",
+    "test2": "ts-node src/index2.ts"
   },
   "dependencies": {
     "@rc-ex/core": "^0.10.5",
